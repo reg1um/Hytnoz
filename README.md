@@ -35,9 +35,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/reg1um/reg1um/output/snake.svg" alt="Snake animation" />
-
-###
